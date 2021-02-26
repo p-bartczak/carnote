@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Car Note</string>
+    <string name="date">Data</string>
+    <string name="mileage">Przebieg</string>
+    <string name="added_liters">Litry dolane</string>
+    <string name="tank_cost">Koszt tankowania</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="go_to_tank_form_button">Przejdź do tankowania</string>
+    <string name="make">Marka</string>
+    <string name="model">Model</string>
+    <string name="color">Kolor</string>
+    <string name="make_demo">VolksWagen</string>
+    <string name="model_demo">Golf</string>
+    <string name="color_demo">Perłowy metalik</string>
+    <string name="new_repair">Nowa naprawa</string>
+    <string name="new_collision">Nowa kolizja</string>
+    <string name="new_tankup">Nowe tankowanie</string>
+    <string name="new_car">Nowe auto</string>
+</resources>
